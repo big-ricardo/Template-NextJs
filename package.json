@@ -1,0 +1,34 @@
+{
+  "name": "alemdelas",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "framer-motion": "^4.1.17",
+    "next": "10.2.3",
+    "next-images": "^1.7.0",
+    "nprogress": "^0.2.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "styled-components": "^5.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.1",
+    "@types/react": "^17.0.8",
+    "@types/styled-components": "^5.1.9",
+    "babel-plugin-inline-react-svg": "^2.0.1",
+    "eslint": "^7.27.0",
+    "eslint-config-airbnb-typescript": "^12.3.1",
+    "typescript": "^4.3.2"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Luiss1569/Site-Alem-das-Telas.git",
+  "author": "Luis Ricardo Santos <rcsrcs1569@gmail.com>",
+  "license": "MIT"
+}
