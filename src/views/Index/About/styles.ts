@@ -26,14 +26,6 @@ export const SectionText = styled(motion.div)`
     @media screen and (max-width: 768px) {
      width: 90%;
     }
-  h3{
-    color: ${props => props.theme.colors.primary};
-    font-size: clamp(28px, 1vw , 200px);
-    @media screen and (max-width: 1024px){
-      text-align: center;
-      font-size: clamp(20px, 3vh + 1px, 200px);
-    }
-  }
   p{
     color: ${props => props.theme.colors.title};
     font-size: clamp(22px, 1vw + 5px, 25px);
