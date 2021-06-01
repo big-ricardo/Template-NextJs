@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import IndexPage from "@/src/views/Index"
 
 export default function Home() {
   return (
@@ -6,7 +7,7 @@ export default function Home() {
         <Head>
             <title>Além das Telas</title>
         </Head>
-        <h1>Ola Mundo</h1>
+        <IndexPage />
     </div>
   )
 }

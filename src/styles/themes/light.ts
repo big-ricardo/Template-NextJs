@@ -5,8 +5,9 @@ const light = {
     backgroundColor: '#f5f5f5',
     text: '#4B5D68',
     title: '#212353',
-    primary:' #9C69E2',
-    secound: 'rgba(255, 140, 42,1)',
+    primary:'rgb(62,173,177)',
+    secound: 'rgb(251,85,69)',
+    third: '#ffcf2d'
   }
 }
 
